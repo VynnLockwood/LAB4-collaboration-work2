@@ -14,6 +14,7 @@ First and Second Paragraph responsible by ธีรธัช ชาวระน�
 
 ณัฐพงษ์ ทาโบราณ 633020563-3 Section 1 Username: natthapong-t
 
+-----------------------------------------------------------------------------
 อนิรุจน์ วายุเวช 633020428-9 Section 1 Username: rujnh
 
 ![profile pic](/media/AnirujPictures.jpg)
