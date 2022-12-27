@@ -3,7 +3,7 @@ Lab 4 collaboration work
 -----------------------------------------------------------------------------
 ธีรธัช ชาวระนอง 633020398-2 Section 1 
 
-![profile pic](/media/git-profile.jpeg)
+![profile pic](/media/git-profile-rs.jpeg)
 
 Username: VynnLockwood
 
