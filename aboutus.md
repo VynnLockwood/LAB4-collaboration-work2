@@ -27,3 +27,4 @@ Assigned roles :5th 6th
 Assigned roles :7th 8th
 -----------------------------------------------------------
 ยศตระการ คมสาคร 633021001-0 section 1 Username: AliceSzPLO
+![profile_pic](/media/yos.jpg)
