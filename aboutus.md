@@ -16,10 +16,9 @@ First and Second Paragraph responsible by ธีรธัช ชาวระน�
 
 -----------------------------------------------------------------------------
 อนิรุจน์ วายุเวช 633020428-9 Section 1 Username: rujnh
+Assigned roles :5th 6th
 
 ![profile pic](/media/AnirujPictures.jpg)
-
-Assigned roles :5th 6th
 
 -----------------------------------------------------------
 คณิน อัครพงษ์ 633020385-1 section 1 Username: LaoGanMaCode 
