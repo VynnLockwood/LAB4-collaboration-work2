@@ -2,13 +2,13 @@
 Lab 4 collaboration work
 -----------------------------------------------------------------------------
 ธีรธัช ชาวระนอง 633020398-2 Section 1 
+
+![profile pic](/media/git-profile-rs.jpeg)
+
 Username: VynnLockwood
 
-First Paragraph responsible by ธีรธัช ชาวระนอง 633020398-2
-![First Paragrahp](/media/vynn-first-commit.png)
+First and Second Paragraph responsible by ธีรธัช ชาวระนอง 633020398-2
 
-Second Paragraph responsible by ธีรธัช ชาวระนอง 633020398-2
-![Second Paragrahp](/media/vynn-second-commit.png)
 
 -----------------------------------------------------------------------------
 
