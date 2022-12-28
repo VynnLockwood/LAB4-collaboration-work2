@@ -25,6 +25,8 @@ Assigned roles :5th 6th
 -----------------------------------------------------------
 คณิน อัครพงษ์ 633020385-1 section 1 Username: LaoGanMaCode 
 Assigned roles :7th 8th
+![profile_pic](/media/kanin.png)
+
 -----------------------------------------------------------
 ยศตระการ คมสาคร 633021001-0 section 1 Username: AliceSzPLO
 Assgined roles : Paragraph 9,10
